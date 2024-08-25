@@ -2,6 +2,6 @@ version = 1
 requires-python = ">=3.12"
 
 [[package]]
-name = "zap_test_settez"
-version = "0.4.0"
+name = "zap-test-settez"
+version = "0.6.0"
 source = { editable = "." }
