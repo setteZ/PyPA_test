@@ -1,3 +1,4 @@
 from .zap_test_settez import main
 
-main()
+if __name__ == "__main__":
+    main()
